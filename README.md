@@ -38,21 +38,26 @@ Fui responsável pelo desenvolvimento do backend da aplicação, incluindo:
 
 ## Como executar o projeto
 
+### Backend
+
 ```bash
-# Backend
 cd back
 npm install
 npm start
+```
+Backend: http://localhost:3001
 
-# Frontend (em outro terminal)
+### Frontend
+
+```bash
 cd front
 npm install
 npm start
-
-
-Backend: http://localhost:3001
-
+```
 Frontend: http://localhost:3000
+
+
+
 
 
 Observações
