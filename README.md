@@ -67,4 +67,5 @@ Este projeto foi desenvolvido em dupla, sendo o backend implementado por mim e o
 Autor
 
 Luiz Raul Gomes Oliveira
-Graduadno de Ciência da Computação - UNIFEI
+
+Graduando de Ciência da Computação - UNIFEI
