@@ -66,5 +66,5 @@ Este projeto foi desenvolvido em dupla, sendo o backend implementado por mim e o
 
 Autor
 
-Luiz Oliveira
-Estudante de Ciência da Computação - UNIFEI
+Luiz Raul Gomes Oliveira
+Graduadno de Ciência da Computação - UNIFEI
